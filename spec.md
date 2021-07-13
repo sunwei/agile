@@ -16,4 +16,6 @@
 ### Menu
 
 - [Spec](spec.md)
+- [实践](practices.md)
+    - [Pair](pair.md)
 - [Content](content.md)
